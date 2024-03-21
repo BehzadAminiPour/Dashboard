@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Epic comeback</h1>;
+  return <h1>Dashboard</h1>;
 }
 
 export default App;
